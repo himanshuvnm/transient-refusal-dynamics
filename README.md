@@ -71,10 +71,8 @@ causal explanation of jailbreak behavior.
 
 ## Repository structure
 
-- `notebooks/` — main end-to-end experiment
-- `src/` — reusable analysis code
+- `code/` — main end-to-end experiment
 - `figures/` — main figures
-- `results/` — aggregate metrics only
 
 ## Reproduction
 
