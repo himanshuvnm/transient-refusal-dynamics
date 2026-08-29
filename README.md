@@ -1,7 +1,7 @@
 # Transient Refusal Dynamics in an Instruction-Tuned Transformer
 
 This repository contains the code and analysis for a short mechanistic
-interpretability study conducted for the Winter 2027 MATS application.
+interpretability study.
 
 ## Research question
 
