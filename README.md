@@ -29,21 +29,21 @@ consistently refused prompts.
 
 The layerwise distance from the refusal trajectory is
 
-\[
+$$
 d_\ell(x)=\|\hat h_\ell(x)-r_\ell\|_2.
-\]
+$$
 
 I then define the local escape
 
-\[
+$$
 e_\ell(x)=d_{\ell+1}(x)-d_\ell(x).
-\]
+$$
 
 The exploratory late-layer escape score is
 
-\[
+$$
 E(x)=\max_{\ell=22,\ldots,30}e_\ell(x).
-\]
+$$
 
 ## Main result
 
