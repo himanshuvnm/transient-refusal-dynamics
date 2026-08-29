@@ -1,1 +1,11 @@
-
+torch
+transformers
+datasets
+accelerate
+sentence-transformers
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+jupyter
